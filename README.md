@@ -6,6 +6,12 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://resonatehq.github.io/examples-ci/">
+    <img src="https://img.shields.io/endpoint?url=https://resonatehq.github.io/examples-ci/status/example-countdown-go.json" alt="examples-ci status">
+  </a>
+</p>
+
 # Countdown | Resonate Go SDK
 
 A durable countdown: tick from N to 1, posting a notification on each tick and sleeping between ticks. If the worker crashes mid-countdown, restarting picks up at the next pending tick rather than starting over.
