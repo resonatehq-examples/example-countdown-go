@@ -120,6 +120,7 @@ example-countdown-go/
 - [Durable sleep](https://docs.resonatehq.io/concepts/durable-promises) — what `ctx.Sleep` is doing under the hood.
 - [Get started](https://docs.resonatehq.io/get-started) — install paths + first-program walkthrough.
 - [`example-fan-out-fan-in-go`](https://github.com/resonatehq-examples/example-fan-out-fan-in-go) — parallel dispatch instead of sequential ticks.
+- **Coming from Temporal?** See [MIGRATING-FROM-TEMPORAL.md](MIGRATING-FROM-TEMPORAL.md) — a side-by-side port of the matching `temporalio/samples-go` example.
 
 ## Community
 
