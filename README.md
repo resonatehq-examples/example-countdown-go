@@ -57,7 +57,7 @@ The `if i > 1` guard skips the trailing sleep after the last notify — the work
   ```
   brew install resonatehq/tap/resonate
   ```
-  Other install paths: <https://docs.resonatehq.io/get-started/install>.
+  Other install paths: <https://docs.resonatehq.io/get-started/quickstart>.
 
 ## Setup
 
@@ -123,7 +123,7 @@ example-countdown-go/
 
 ## Next steps
 
-- [Durable sleep](https://docs.resonatehq.io/concepts/durable-promises) — what `ctx.Sleep` is doing under the hood.
+- [Durable sleep](https://docs.resonatehq.io/learn/durable-promises) — what `ctx.Sleep` is doing under the hood.
 - [Get started](https://docs.resonatehq.io/get-started) — install paths + first-program walkthrough.
 - [`example-fan-out-fan-in-go`](https://github.com/resonatehq-examples/example-fan-out-fan-in-go) — parallel dispatch instead of sequential ticks.
 - **Coming from Temporal?** See [MIGRATING-FROM-TEMPORAL.md](MIGRATING-FROM-TEMPORAL.md) — a side-by-side port of the matching `temporalio/samples-go` example.
